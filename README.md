@@ -2,7 +2,7 @@
 
 ## Code to scrape from [Ballotpedia.org](https://ballotpedia.org)
 
-This repository contains an R script to scrape and save data on party composition in US states' upper and lower chambers (State Senate, State House of Representatives) from [Ballotpedia.org](https://ballotpedia.org). 
+This repository contains an R script to scrape and format data on party composition in US states' upper and lower chambers (State Senate, State House of Representatives) from [Ballotpedia.org](https://ballotpedia.org). 
 It outputs two datasets, one each for the upper and lower chamber, containing the following variables:
 
 - State (excluding overseas territories and the District of Columbia)
